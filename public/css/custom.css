@@ -1,0 +1,9 @@
+:root {
+    --primary-color: #2B2D6B;      /* Dark Blue from logo */
+    --secondary-color: #4FC3F7;    /* Light Blue/Cyan from logo */
+    --accent-color: #8BC34A;       /* Green from logo */
+    --gradient-primary: linear-gradient(135deg, #2B2D6B 0%, #4FC3F7 100%);
+    --gradient-secondary: linear-gradient(135deg, #4FC3F7 0%, #8BC34A 100%);
+    --text-primary: #2B2D6B;
+    --cnvs-color-light: #f8fafc;
+}
