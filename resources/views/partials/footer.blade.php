@@ -9,21 +9,7 @@
                         construction and infrastructure development through reliable excavator rental and sales
                         services.</p>
                     <div class="clear"></div>
-                    <div>
-                        <a href="#" class="social-icon me-2 rounded-circle si-small border-0 bg-facebook">
-                            <i class="fa-brands fa-facebook-f"></i>
-                            <i class="fa-brands fa-facebook-f"></i>
-                        </a>
-                        <a href="#" class="social-icon me-2 rounded-circle si-small border-0 bg-linkedin">
-                            <i class="fa-brands fa-linkedin-in"></i>
-                            <i class="fa-brands fa-linkedin-in"></i>
-                        </a>
-                        <a href="mailto:inquiry@bupixel.org"
-                            class="social-icon me-2 rounded-circle si-small border-0 bg-dark">
-                            <i class="fa-regular fa-envelope"></i>
-                            <i class="fa-regular fa-envelope"></i>
-                        </a>
-                    </div>
+
                 </div>
 
                 <div class="col-6 col-lg-3">
